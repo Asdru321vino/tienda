@@ -1,0 +1,62 @@
+<html>
+<head>
+<title> SOPOTS DROP</title>
+</head>
+</html>
+<body>
+
+<body background="C:\Users\Asus\Documents\erik\cuarto\gestion\tienda.index\imagenes\fondo2.jpg">
+
+<table border="2" align="center" width="100%"<body background="C:\Users\Asus\Documents\erik\cuarto\gestion\tienda.index\imagenes\fondo3.jpg" >
+<tr>
+<td>
+<h1 align= "center"><font color="Green"> ZAPATOS EN TODAS LAS MARCAS  </h1></font>
+</tr>
+</td>
+</table>
+
+<div style="width: 100%;">
+<div style="display: inline-block; width: 70%;">
+<font color="red"> !SOLO POR ESTE MES AL 15 % DE DESCUESTO ¡  </font>
+</div>
+<div style="display: inline-block; width: 19%; text-align: right;">
+<font color="Blue "><p align=right> <i><u>Menu </i></u></font>
+</div>
+</div>
+
+<table border="1" align="center" width="100%">
+<tr>
+<td align="center">
+
+<p><font face="Cooper"><u>Productos para mujeres </u></font></p>
+<p><font size = 2> Resalta tu estilo con nuestra exclusiva  </font> </p>
+<p><font size = 2> selección de calzado femenino.</font>  </p>
+<p><font size = 2>Tacones, botas, sandalias y más, diseñados</font> </p>
+<p><font size = 2>para hacerte sentir segura, cómoda</font> </p>
+<p><font size = 2> y a la moda en cada paso.</font> </p>
+<img src="C:\Users\Asus\Documents\erik\cuarto\gestion\tienda.index\imagenes\imagen1.jpg" width="150" height="150"><br>
+</td>
+
+<td align="center">
+<p><font face="Cooper"><u>Productos para hombres</u> </font></p>
+<p><font size = 2>Descubre nuestra colección de calzado </font></p>
+<p><font size = 2>masculino, donde el estilo y la comodidad</font></p>
+<p><font size = 2> se encuentran. </font></p>
+<img src="C:\Users\Asus\Documents\erik\cuarto\gestion\tienda.index\imagenes\imagen2.jpg" width="150" height="150"><br>
+</td > 
+
+<td align="center">
+<p><font face="Cooper"><u> Productos para niños</u></font></p>
+<p><font size = 2>Comodidad, resistencia y mucho color.</font></p>
+<p><font size = 2>Nuestra línea infantil está pensada</font></p>
+<p><font size = 2>para acompañar cada aventura.</font></p>
+<img src="C:\Users\Asus\Documents\erik\cuarto\gestion\tienda.index\imagenes\imagen3.jpg" width="150" height="150"><br>
+</td>
+</tr>
+
+
+
+
+
+</body>
+</html>
